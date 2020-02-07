@@ -19,7 +19,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   var bannerList = [
     BannerPost(
-        title: "欢迎来到我的武职",
+        title: "欢迎来到我的校园",
         subTitle: "APP 目前处于初期开发中...",
         messageText: "https://blog.geek-cloud.top",
         assetAuthorName: "August",

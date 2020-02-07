@@ -1,6 +1,6 @@
-# outbreak_assistant
+# 校园助手 (暂定)
 
-2020新型冠状病毒疫情通知
+<img src="./screen_shots/Screenshot_1581087849.png" />
 
 ## Getting Started
 
